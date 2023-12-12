@@ -1,0 +1,7 @@
+#ARRAY 5, 100, 1, 1, 1, 1
+
+MVC 0
+MVSRM 0
+ADDAR 1
+DEC 0
+JNZ 1
